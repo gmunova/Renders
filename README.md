@@ -1,3 +1,4 @@
 # Renders
 This is where my blender renders could be viewed. 
-Enjoy, thanks! 
+Simply click on any of the jpg or png files. 
+There should be a redirect. Enjoy! 
